@@ -1,10 +1,14 @@
 _repo: The-Witchcraft-Delusion-in-New-England-Its-Rise-Progress-and-Termination-Vol-1-of-3_50204
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Drake, Samuel G.
       gutenberg_agent_id: '45749'
       url: http://www.gutenberg.org/2009/agents/45749
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Calef, Robert
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33376
     wikipedia: http://en.wikipedia.org/wiki/Cotton_Mather
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50204#The-Witchcraft-Delusion-in-New-England-Its-Rise-Progress-and-Termination-Vol-1-of-3
 gutenberg_issued: '2015-10-13'
 gutenberg_type: Text
 identifiers:
